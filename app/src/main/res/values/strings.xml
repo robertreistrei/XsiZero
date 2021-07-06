@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">XsiZero</string>
+
+    <string name="homeTitle">X si 0</string>
+    <string name="playButton">Play</string>
+
+    <string name="PlayerSetupTitle">Enter your name.</string>
+    <string name="Label1">Player 1</string>
+    <string name="Label2">Player 2</string>
+    <string name="SubmitButton">Submit names</string>
+    <string name="NameHint">Your name here</string>
+    <string name="playAgainButton">Play again.</string>
+    <string name="homeButton">Home</string>
+</resources>
